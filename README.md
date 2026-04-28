@@ -1,4 +1,4 @@
-# 👋 Привет! Я Стефан
+# 👋 Привет! Я Averno
 
 **IT Architect | Backend Developer | Cloud Enthusiast**
 
