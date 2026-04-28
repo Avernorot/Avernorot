@@ -1,4 +1,4 @@
-# 👋 Привет! Я [Ваше Имя]
+# 👋 Привет! Я Стефан
 
 **IT Architect | Backend Developer | Cloud Enthusiast**
 
