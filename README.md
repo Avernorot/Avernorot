@@ -13,7 +13,7 @@
 - **Frameworks:** Spring Boot, FastAPI, Node.js
 - **Databases:** PostgreSQL, MongoDB, Redis
 
-- https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d21cc862afae22e1a906152be978a08450a6803c_500.webp
+ https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d21cc862afae22e1a906152be978a08450a6803c_500.webp
 
 ### Infrastructure
 - **Cloud:** AWS, GCP, Azure
